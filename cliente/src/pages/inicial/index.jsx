@@ -1,9 +1,11 @@
 import Aside from '../..//components/aside/index.jsx'
+import Navbar from '../..//components/navbar/index.jsx'
 function Inicial(){
     return(
         <div>
+            <Navbar/>
             <Aside/>
-    <h1>teste inicial</h1>
+            
         </div>
     )
 }
