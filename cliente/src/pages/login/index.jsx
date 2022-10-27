@@ -26,8 +26,8 @@ function Login(){
                      <label>Senha</label>
                      <input type="password" class="form-control" placeholder="Senha"/>
                   </div>
-                  <button type="submit" class="btn btn-login">Login</button>
-                  <button type="submit" class="btn btn-register">Register</button>
+                  <button type="submit" class="btn btn-login"  formAction='/'>Login</button>
+                  <button type="submit" class="btn btn-register "formAction='/register'>Register</button>
                </form>
             </div>
          </div>

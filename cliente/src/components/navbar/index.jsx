@@ -9,6 +9,7 @@ function Navbar(){
                <li><a href=""><FaBell/></a></li>
                <li>|</li>
                <button>{user}</button>
+               <li><a href="/login">Sair</a></li>
            </ul>
         </Containner>
        </div>
