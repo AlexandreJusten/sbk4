@@ -35,7 +35,7 @@ margin-top: 5%;
 
 /* Active/current link */
 .sidebar a.active {
-  background-color: rgba(202,202,202,0.1);
+  background-color: rgba(302,302,302,0.1);
   color: white;
 }
 
