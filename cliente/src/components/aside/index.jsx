@@ -11,8 +11,8 @@ function Aside(){
             <div class="sidebar">
                 <img src={Logo} alt="" />
                 <div class="combo">
-                <a class="active" href="#home"> <FaHome/> Inicial</a>
-                <a href="#news"><FaUsers/>  Clientes</a>
+                <a class="active" href="/"> <FaHome/> Inicial</a>
+                <a href="/clientes"><FaUsers/>  Clientes</a>
                 <a href="#contact"><FaUserTie/>  Proprietarios</a>
                 <a href="#about"><FaHotel/>    Imoveis</a>
                 <a href="#about"><FaHospitalUser/>  Corretores</a>
