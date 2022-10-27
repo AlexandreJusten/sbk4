@@ -19,7 +19,7 @@ function Aside(){
                 <br /><br /><br />
                 <a href="#about" ><FaCogs/>       Configurações</a>
                 </div>
-            </div>
+            </div>  
             </Containner> 
            
         </div>
