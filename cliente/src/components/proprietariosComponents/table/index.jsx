@@ -1,8 +1,7 @@
 import { Containner } from "./styled.js"
 import {FaBuffer} from 'react-icons/fa';
 
-function Table(){
-
+function Table(handleOpenModal){
     return (
         <div>
             <Containner>
@@ -24,7 +23,7 @@ function Table(){
       <td>@mdo</td>
       <td className="teste">
         <div className="td_Button">
-        <button><FaBuffer/></button>
+        <button onClick={() => handleOpenModal.handleOpenModal()}><FaBuffer/></button>
         <button>teste</button>
         <button>teste</button>
         </div>
